@@ -1,0 +1,3 @@
+$('.longboards').bxSlider({
+    pager: false
+});
